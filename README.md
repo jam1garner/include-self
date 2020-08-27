@@ -8,3 +8,12 @@ Example usage:
 include_self!( " hope you're having a good day :)" );
 ```
 
+## Try the example:
+
+```
+git clone https://github.com/jam1garner/include-self
+cd include-self
+cargo run --example include_self
+cd ..
+rm -rf include-self # kill it with fire
+```
